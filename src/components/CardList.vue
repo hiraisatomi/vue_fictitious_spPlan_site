@@ -18,7 +18,7 @@ import ThirdCardListVue from './ThirdCardList.vue';
     <Card title="Concept" class="card">
       <div class="contents">
         <h2 class="sub">必要最低限でOK&#033;とにかくシンプルなプランをお探しの方に</h2>
-        <p>リモートワークやおうち時間が増え、wifi環境でしか携帯を使わない方</p>
+        <p>リモートワークやおうち時間が増え、wifi環境でしか携帯を使わない方の為のプラン</p>
         <p>余計なコンテンツを省いた超シンプルプランにしました。</p>
       </div>
     </Card>
